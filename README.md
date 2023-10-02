@@ -21,3 +21,9 @@ The system takes as input a corpus of news articles provided by the user, format
 ## System outputs
 
 The output is a tabular file that contains as columns Standard ESG indicators about companies and a row for each company.
+
+## Proposed Architecture
+
+The system has been defined as a three module component where each component will be independent, being the input to a module the output from the previous one. The following figure illustrates the overall architecture:
+
+[]()
