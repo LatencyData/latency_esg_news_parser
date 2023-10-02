@@ -26,4 +26,4 @@ The output is a tabular file that contains as columns Standard ESG indicators ab
 
 The system has been defined as a three module component where each component will be independent, being the input to a module the output from the previous one. The following figure illustrates the overall architecture:
 
-[]()
+![Component architecture](blob/architecture.png)
